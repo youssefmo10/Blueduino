@@ -1,4 +1,11 @@
-1. What is the problem? 
+1.Project OverView 
+PharmaSafe is a Smart Medicine Cabinet system designed to improve the security, 
+management, and tracking of sensitive and high-risk medications in healthcare environments. 
+It combines embedded hardware with software intelligence to ensure controlled access, real
+time monitoring, and detailed audit logging. 
+The system targets hospitals, pharmacies, and home-care centers where medication safety 
+and accurate dispensing are critical.
+2.  What is the problem? 
 Through a deeper analysis of the healthcare sector, it becomes clear that hospitals are facing a 
 serious and recurring security problem: the theft and mismanagement of high-value and 
 sensitive medical drugs. These include life-saving cancer treatments, narcotics used in surgeries, 
